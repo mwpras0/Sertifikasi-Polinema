@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-ldpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-ldpi\\ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-mdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-mdpi\\ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable_button_box.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable\\button_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_income.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable_buku.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable\\buku.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-mdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-mdpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-ldpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-ldpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_outcome.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_outcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-hdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-hdpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_search.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-hdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-hdpi\\ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable_dev.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable\\dev.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-anydpi-v21\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xhdpi\\ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_income.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xhdpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_wahyu.jpg.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\wahyu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-anydpi-v21_ic_baseline_edit_calendar_24.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-anydpi-v21\\ic_baseline_edit_calendar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-anydpi-v21_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-anydpi-v21\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_setting.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_activity_outcome.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\activity_outcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxhdpi\\ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxhdpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_coin.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-ldpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-mdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-hdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\layout_listview_adapter_detail.xml.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\layout\\listview_adapter_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable_chart.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable\\chart.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxxhdpi\\ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-v24_cashflow.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-main-21:\\drawable-v24\\cashflow.png"
+    },
+    {
+        "merged": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-merged_res-19:\\drawable-xxxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "C:\\Users\\JENN\\.gradle\\daemon\\7.3.3\\com.project.mycashbook.app-pngs-14:\\drawable-xxxhdpi\\ic_baseline_edit_calendar_24.png"
+    }
+]
